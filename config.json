@@ -1,0 +1,22 @@
+{
+    "interval": 5,
+    "threshold": 3,
+    "timeout_ms": 1000,
+    "max_workers": 10,
+    "sound_alert": true,
+    "popup_on_top": true,
+    "switches": [
+        {
+            "name": "Switch Coeur (Baie Principale)",
+            "ip": "192.168.1.1"
+        },
+        {
+            "name": "Switch Bureaux R+1",
+            "ip": "192.168.1.2"
+        },
+        {
+            "name": "Switch Atelier",
+            "ip": "192.168.1.254"
+        }
+    ]
+}

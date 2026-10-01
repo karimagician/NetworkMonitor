@@ -1,0 +1,2 @@
+# Ce fichier garantit que le dossier logs/ est bien livre dans l'archive ZIP.
+# Le journal historique_reseau.log y sera cree automatiquement (rotation 5 Mo x 3).
